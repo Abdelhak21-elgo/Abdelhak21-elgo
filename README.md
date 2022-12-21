@@ -2,7 +2,7 @@
 
 
 
-  ![header](https://capsule-render.vercel.app/api?text=hey%there%welcom%to%my%Repo%my%Name%is%Abdelhak%El%Gourmat&type=Waving) 
+  ![header](https://capsule-render.vercel.app/api?text=Abdelhak%El%Gourmat&type=Waving) 
 
 
 
