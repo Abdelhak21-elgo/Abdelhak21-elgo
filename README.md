@@ -4,12 +4,33 @@
 
 
 
+
+
 ### :man_technologist: About Me :
+
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Marocco.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div>
+<div align="center">
+  <img src="https://i.imgur.com/MvMxQ1a.gif" width="600" height="300"/>
+</div>
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhak-el-gourmat-2675881a5)
+
+
+
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -29,7 +50,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
+
+
 ### :fire: My Stats :
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak21-elgo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelhak21-elgo&show_icons=true&theme=radical)
 
 
