@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcom in my Repo 
 
-![header](https://capsule-render.vercel.app/api?text=Abdelhak_El_Gourmat&animation=fadeIn&type=wave)
+![header](https://capsule-render.vercel.app/api?text=Abdelhak_El_Gourmat&type=wave)
 
 
 
