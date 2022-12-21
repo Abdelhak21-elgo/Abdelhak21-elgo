@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak21-elgo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelhak21-elgo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelhak21-elgo&show_icons=true&theme=radical)                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak21-elgo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             
 
 
 ### :hammer_and_wrench: Languages and Tools :
