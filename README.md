@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Abdelhak_El_Gourmat&type=Waving)           
 
 <div align="center">
-  <img src="https://i.imgur.com/MvMxQ1a.gif" width="600" height="900"/>
+  <img src="https://i.imgur.com/MvMxQ1a.gif" width="900" height="400"/>
 </div>
 
 
