@@ -30,6 +30,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelhak21-elgo&show_icons=true&theme=radical)                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhak21-elgo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             
 
 
+![Snake animation](https://github.com/Abdelhak21-elgo/Abdelhak21-elgo/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 
