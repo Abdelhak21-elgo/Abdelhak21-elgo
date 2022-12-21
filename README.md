@@ -1,9 +1,11 @@
-### Hi there 👋 Welcom in my Repo 
+<h1>  hey there welcom to my Repo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1> 
 
 
-![header](https://capsule-render.vercel.app/api?text=Abdelhak_El_Gourmat&type=Waving)           <h1>  hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+![header](https://capsule-render.vercel.app/api?text=Abdelhak_El_Gourmat&type=Waving)           
 
-
+<div align="center">
+  <img src="https://i.imgur.com/MvMxQ1a.gif" width="900" height="600"/>
+</div>
 
 
 
@@ -11,10 +13,6 @@
 
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Marocco.
-
-<div align="center">
-  <img src="https://i.imgur.com/MvMxQ1a.gif" width="600" height="300"/>
-</div>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
