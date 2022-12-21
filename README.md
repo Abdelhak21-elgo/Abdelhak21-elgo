@@ -1,9 +1,9 @@
 <h1 align="center">  hey there welcom to my Repo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1> 
 
 
-<div align="center">
+
   ![header](https://capsule-render.vercel.app/api?text=Abdelhak_El_Gourmat&type=Waving) 
-</div>
+
 
 
 <div align="center">
